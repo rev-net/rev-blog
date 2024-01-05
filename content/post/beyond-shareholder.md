@@ -4,7 +4,8 @@ title: Beyond the Shareholder Model
 
 # Beyond the Shareholder Model
 
-_by pfitzy12 – originally shared on Discord_
+_by pfitzy12 – originally shared on
+[Medium](https://medium.com/@RevNet/beyond-the-shareholder-model-1d487ab20c12)_
 
 TLDR:
 

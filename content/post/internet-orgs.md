@@ -1,15 +1,16 @@
 ---
-title: "The Rise of Internet Orgs: Something Isn’t Working"
+title: "Something Isn’t Working"
 ---
 
-# The Rise of Internet Orgs: Something Isn’t Working
+# Something Isn’t Working
 
-_by pfitzy12 – originally shared on Discord_
+_by pfitzy12 – originally shared on
+[Medium](https://medium.com/@RevNet/something-isnt-working-bc84405df63b)_
 
 Despite our best efforts to view the progress of crypto through rose-colored
 lenses, it’s clear that something has gone wrong. It’s not necessary to discard
 our conviction in software as a potential solution to large-scale coordination
-problems, but it does require us to reckon with the fact that we largely aren’t
+problems, but it does require us to reckon with the fact that it broadly isn’t
 right now. Some people resign themselves to protecting the hive from criticism,
 while outside observers lob wholesale critiques based on the actions of a few.
 Neither are a healthy camp to be in. What if we stopped being so defensive and
@@ -17,7 +18,7 @@ actually made some changes?
 
 We posit one overarching goal:
 
-We need to find a **stable** way to build **networks** on the **internet.**
+We need to find a **stable** way to build **networks** on the **internet**.
 
 I think many of us have the intuition that the corporation is somehow
 anachronistic to the logic of the internet. The corporation surely differs in
@@ -40,7 +41,7 @@ dependent. We are reliant on sustainable models to fund the blockchains,
 infrastructure projects and other integrations we rely on. If they die, a part
 of our product dies. We are tied in a large web of dependent APIs. In addition,
 the extremely weak barriers to entry given the forkable nature of the software
-prevent extraction outside the strongest of network effects.
+prevent extraction outside of the strongest of network effects.
 
 As the legal bureaucracy of corporations repelled us, this led us to the DAO, or
 decentralized autonomous organization. There was an energetic spirit in the air
@@ -49,7 +50,7 @@ payments and operate autonomously on the internet. However, the short time
 horizons and lack of corporate oversight led to a lot of cash grabs. Even for
 honest teams, the tools of liquidity mining, airdrops, governance voting cartels
 and other perversions of the original spirit have led to unsustainable and
-unaccountable DAOs. You get the feeling that most projects had no intention of
+unaccountable DAOs. You get the feeling that many projects had no intention of
 lasting much longer than the time it would take to extract some wealth. Our
 current situation is we have many open source projects who sit at the extremes
 of the binary between venture-funded flash in the pan and community led and
