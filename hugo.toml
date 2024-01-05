@@ -1,0 +1,22 @@
+baseURL = "https://blog.revnet.app"
+languageCode = "en-us"
+title = "Revnet Blog"
+theme = "cyberscape"
+
+[markup.goldmark.renderer]
+unsafe=true
+
+[[menu.main]]
+name = "blog"
+url = "/blog/"
+weight = 1
+
+[[menu.main]]
+name = "workshops"
+url = "/workshops/"
+weight = 2
+
+[[menu.main]]
+name = "links"
+url = "/links/"
+weight = 3
