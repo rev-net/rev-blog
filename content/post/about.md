@@ -1,6 +1,6 @@
 # About Revnets
 
-*by Filip*
+*by Filip – originally shared on [sim.revnet.app](https://sim.revnet.app/about.html)*
 
 Let's say you want to build an open-source alternative to Google Maps. Unless you want to build it by yourself, you'll need some type of organization.
 
