@@ -6,6 +6,7 @@ title: Blog
 
 ⏩ Articles and essays about Revnets. ⏩ _⭐ = recommended reading_
 
+1. ⭐ [Revnets 101](/post/revnets-101/) by Jango – 101 crash course: everything you need to know about Revnets.
 1. ⭐ [About Revnets](/post/about/) by Filip – basic intro.
 1. [About Revnets](/post/about-revnets/) by Jango – detailed intro.
 1. ⭐ [Revnets: Retailism in action](/post/in-action.md) by Jango – what makes
