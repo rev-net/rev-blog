@@ -17,6 +17,11 @@ url = "/workshops/"
 weight = 2
 
 [[menu.main]]
+name = "faq"
+url = "/faq/"
+weight = 3
+
+[[menu.main]]
 name = "links"
 url = "/links/"
-weight = 3
+weight = 4
