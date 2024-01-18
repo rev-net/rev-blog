@@ -8,5 +8,6 @@ title: Weekly Workshops
 [Revnet Discord server](https://discord.com/invite/6Zr7Rtv6Ea) on Thursdays @ 5
 PM EST. Summaries and recordings for previous weeks are available below. ⏩
 
-1. [11 January 2024](/workshop/2024-01-11)
-2. [04 January 2024](/workshop/2024-01-04)
+1. [18 January 2024](/workshop/2024-01-18)
+2. [11 January 2024](/workshop/2024-01-11)
+3. [04 January 2024](/workshop/2024-01-04)
