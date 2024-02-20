@@ -129,7 +129,7 @@ floor, and the boost are locked in place once MapNet is launched. If your boost
 or pre-mint is too large, it might feel unfair and make people less likely to
 support the Revnet. If the price increases too quickly, it might cause liquidity
 issues later on. To get a sense of how these options play out, experiment with
-the [Revnet simulator](/).
+the [Revnet simulator](https://sim.revnet.app/).
 
 Software companies sometimes use investor funding to make their product free, or
 cheaper than its alternatives. Once their product has enough users, the company
